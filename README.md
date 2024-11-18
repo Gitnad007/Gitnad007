@@ -12,7 +12,7 @@
 </p>
 
 
-- 📚 Pursuing MCA from Lovely Professional university
+- 📚 Completed MCA from Lovely Professional university
 - 🔭 I’m currently working on my skills and personality
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Open Source
